@@ -4,7 +4,7 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I'm  Edward Lampoh</h1>
-<h3 align="center">Software Engineering | Bioinformatics | Deep Learing</h3>
+<h3 align="center">Software Engineering | Bioinformatics | Deep Learning</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/edward-lampoh-a91338b0/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Ediie" height="30" width="40" /></a>
 <a href="https://web.facebook.com/edward.lampoh/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="edward lampoh" height="30" width="40" /></a>
