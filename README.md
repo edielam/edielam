@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">,  I'm  Edward Lampoh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="0.5px">,  I'm  Edward Lampoh</h1>
 <h3 align="center">Software Engineering | Bioinformatics | Deep Learning</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/edward-lampoh-a91338b0/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Ediie" height="30" width="40" /></a>
