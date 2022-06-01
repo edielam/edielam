@@ -11,8 +11,7 @@
   </em> 
 </p>
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>GitHub Activity</b></i></p>
+<p align="center"><i><b>GitHub Activity</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edielam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=edielam&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
