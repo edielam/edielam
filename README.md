@@ -2,7 +2,7 @@
 <h1 align="center">Hi,  I'm  Edward Lampoh</h1>
 <h3 align="center">Software Engineering | Bioinformatics | Deep Learning</h3>
 <p align="center">
-<a href="https://web.facebook.com/edward.lampoh/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="edward lampoh" height="30" width="40" /></a>
+<a href="https://twitter.com/edie_I_AM/" target="blank"><img align="center" src="http://farm6.static.flickr.com/5136/5421259125_ea06d67675_o.png" alt="edward lampoh" height="30" width="40" /></a>
  <a href = "mailto: dredielam@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 <p align="center">
