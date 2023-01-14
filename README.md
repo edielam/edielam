@@ -6,7 +6,7 @@
  <a href = "mailto: dredielam@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a> -->
 <p align="center">
 <a href="https://github.com/edielam">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineer+%7C+Mphil+Candidate+%7C+Bioinformatics+%7C+Startup+Founder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineer+%7C+Mphil+Candidate+%7C+Bioinformatics+%7C+Startup+Founder" alt="Typing SVG" />
 </a>
 </p>
 <p align="center">
@@ -46,7 +46,6 @@
 <hr>
 <br/> 
 * 💡 Open to collaborating on projects and innovative ideas. 
-
 * 💻 Currently working on software systems for speeding infrastructural development in Africa. 
 
 </p>
