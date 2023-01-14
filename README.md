@@ -6,7 +6,7 @@
  <a href = "mailto: dredielam@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a> -->
 <p align="center">
 <a href="https://github.com/edielam">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineer+%7C+Mphil+Candidate+%7C+Bioinformatics;Startup+Founder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineer+%7C+Mphil+Candidate+%7C+Bioinformatics;Startups" alt="Typing SVG" />
 </a>
 </p>
 <p align="center">
