@@ -45,6 +45,7 @@
 </a>
 <hr>
 <br/> 
+
 * 💡 Open to collaborating on projects and innovative ideas.
 
 * 💻 Currently working on software systems for speeding infrastructural development in Africa. 
