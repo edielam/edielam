@@ -13,8 +13,33 @@
 
 <p align="center"><i><b>GitHub Activity</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edielam&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=edielam&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br>
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="https://elam.netlify.app">
+    <img src="https://img.shields.io/badge/Website-elam.netlify-red?style=flat-square">
+</a>  
+<a href="https://elam.netlify.app/assets/resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/edward-lampoh-a91338b0">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:dredielam@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+
+<br/> 
+
+
+<a href="https://github.com/edielam">
+    <img src="https://github-stats-alpha.vercel.app/api?username=edielam&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+</p>
 
 
