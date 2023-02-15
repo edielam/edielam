@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <em>
-    A Software Engineer with 2 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
+    A Software Engineer with 4 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
   </em> 
 </p>
 
