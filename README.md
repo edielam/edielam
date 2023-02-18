@@ -48,7 +48,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas.
 
-* 💻 Currently building 2D and 3D games with Unity. 
+<!--* 💻 Currently building 2D and 3D games with Unity. -->
 
 * ⚙️ Looking forward to building software systems for speeding infrastructural development in Africa 
 
