@@ -6,12 +6,12 @@
  <a href = "mailto: dredielam@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a> -->
 <p align="center">
 <a href="https://github.com/edielam">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineering+%7C+AI+%7C+Bioinformatics;Startups" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineering+%7C+AI+%7C+Data Science;Startups" alt="Typing SVG" />
 </a>
 </p>
 <p align="center">
   <em>
-    A Software Engineer with 4 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
+    A Software Engineer with 3 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
   </em> 
 </p>
 
@@ -48,9 +48,9 @@
 
 * 💡 Open to collaborating on projects and innovative ideas.
 
-<!--* 💻 Currently building 2D and 3D games with Unity. -->
+<!--* 💻 Currently building 2D and 3D games with Unity.
 
-* ⚙️ Looking forward to building software systems for speeding infrastructural development in Africa 
+* ⚙️ Looking forward to building software systems for speeding infrastructural development in Africa -->
 
 </p>
 
