@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://twitter.com/edie_I_AM/" target="blank"><img align="center" src="http://farm6.static.flickr.com/5136/5421259125_ea06d67675_o.png" alt="edward lampoh" height="30" width="40" /></a>
  <a href = "mailto: dredielam@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a> -->
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/edielam">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineering+%7C+AI+%7C+Data Science;Startups" alt="Typing SVG" />
 </a>
@@ -13,7 +13,34 @@
   <em>
     A Software Engineer with 3 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
   </em> 
-</p>
+</p> -->
+# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="32" height="32" /> Hello, I'm [Edward]! 
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="32" height="32" /> About Me
+
+An experienced software engineer <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" /> with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
+
+Currently leading projects using drones <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f8.png" width="20" height="20" /> and computer vision to improve agriculture <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" width="20" height="20" /> and transportation. In my free time, I enjoy developing games <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png" width="20" height="20" /> and exploring new frameworks.
+
+### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" width="32" height="32" /> Tech Stack
+
+- Languages: Python, Java, JavaScript, C#
+
+- Frameworks: React, Node.js, SpringBoot, Express.js, Flask, Django
+
+- Tools: Git, Docker, AWS, Unity, NGINX
+
+- ML: PyTorch, sklearn, TensorFlow
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width="32" height="32" /> Pinned Repositories
+
+<a href="https://github.com/edielam/Drone-Dispatcher-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App" />
+</a>
+
+<a href="https://github.com/edielam/Jeflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Jeflix" /> 
+</a>
 
 <p align="center"><i><b>GitHub Activity</b></i></p>
  
@@ -46,7 +73,7 @@
 <hr>
 <br/> 
 
-* 💡 Open to collaborating on projects and innovative ideas.
+<!--* 💡 Open to collaborating on projects and innovative ideas.
 
 <!--* 💻 Currently building 2D and 3D games with Unity.
 
