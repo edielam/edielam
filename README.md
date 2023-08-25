@@ -63,7 +63,7 @@ Currently working on a social media analytics project, as well as using drones <
 <hr>
 <br/> 
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width="32" height="32" /> Pinned Repositories
+<!--## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width="32" height="32" /> Pinned Repositories
 
 <a href="https://github.com/edielam/Drone-Dispatcher-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App" />
