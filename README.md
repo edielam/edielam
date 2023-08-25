@@ -14,13 +14,13 @@
     A Software Engineer with 3 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
   </em> 
 </p> -->
-# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="32" height="32" /> Hello, I'm [Edward]! 
+# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="32" height="32" /> Hello, I'm [Ed]! 
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="32" height="32" /> About Me
 
 An experienced software engineer <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" /> with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
 
-Currently leading projects using drones <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f8.png" width="20" height="20" /> and computer vision to improve agriculture <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" width="20" height="20" /> and transportation. In my free time, I enjoy developing games <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png" width="20" height="20" /> and exploring new frameworks.
+Currently working on a social media analytics project, as well as using drones <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f8.png" width="20" height="20" /> and computer vision to improve agriculture <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33f.png" width="20" height="20" /> and transportation. In my free time, I enjoy developing games <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png" width="20" height="20" /> and exploring new frameworks.
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" width="32" height="32" /> Tech Stack
 
@@ -40,6 +40,10 @@ Currently leading projects using drones <img src="https://github.githubassets.co
 
 <a href="https://github.com/edielam/Jeflix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Jeflix" /> 
+</a>
+
+<a href="https://github.com/edielam/Social-Metric-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Social-Metric-Tracker" /> 
 </a>
 
 <p align="center"><i><b>GitHub Activity</b></i></p>
