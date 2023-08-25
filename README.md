@@ -1,4 +1,4 @@
-<hr>
+
 <!-- <h1 align="center">Hi,  I'm  Edward Lampoh</h1>
 <h3 align="center">Software Engineering | Bioinformatics | Deep Learning</h3>
 <p align="center">
@@ -14,7 +14,7 @@
     A Software Engineer with 3 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
   </em> 
 </p> -->
-# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="32" height="32" /> Hello, I'm [Ed]! 
+# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="32" height="32" /> Hello, I'm Ed! 
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="32" height="32" /> About Me
 
