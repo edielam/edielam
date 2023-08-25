@@ -32,20 +32,6 @@ Currently working on a social media analytics project, as well as using drones <
 
 - ML: PyTorch, sklearn, TensorFlow
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width="32" height="32" /> Pinned Repositories
-
-<a href="https://github.com/edielam/Drone-Dispatcher-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App" />
-</a>
-
-<a href="https://github.com/edielam/Jeflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Jeflix" /> 
-</a>
-
-<a href="https://github.com/edielam/Social-Metric-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Social-Metric-Tracker" /> 
-</a>
-
 <p align="center"><i><b>GitHub Activity</b></i></p>
  
 <p align="center">
@@ -76,6 +62,16 @@ Currently working on a social media analytics project, as well as using drones <
 </a>
 <hr>
 <br/> 
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width="32" height="32" /> Pinned Repositories
+
+<a href="https://github.com/edielam/Drone-Dispatcher-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App" />
+</a>
+
+<a href="https://github.com/edielam/Social-Metric-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Social-Metric-Tracker" /> 
+</a>
 
 <!--* 💡 Open to collaborating on projects and innovative ideas.
 
