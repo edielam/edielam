@@ -43,7 +43,7 @@ Currently working on a social media analytics project, as well as using drones <
 <a href="https://elam.netlify.app">
     <img src="https://img.shields.io/badge/Website-elam.netlify-red?style=flat-square">
 </a>  
-<a href="https://elam.netlify.app/assets/resume.pdf">
+<a href="https://elam.netlify.app/assets/Resume0823.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/edward-lampoh-a91338b0">
