@@ -20,7 +20,7 @@
 
 An experienced software engineer <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" /> with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
 
-Currently working on a social media analytics project, as well as using drones <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6f8.png" width="20" height="20" /> to improve the transportation of medications. In my free time, I enjoy developing games <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png" width="20" height="20" /> and exploring new frameworks.
+- Currently working as an AI 🤖 Software Development Consultant on a Voice Synthesis 🎤 project, as well as contributing to an open-source project 📜 that seeks to unify all machine learning 🧠 frameworks.
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" width="32" height="32" /> Tech Stack
 
