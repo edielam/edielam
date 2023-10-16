@@ -51,7 +51,7 @@ from soil data.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Social-Metric-Tracker"/>
 </a>
 
-Built a real-time chat app with React, Node.js, and Socket.io. Focused on scalability and UX.
+Built a real-time chat analytics app with React, Node.js, and SpringBoot. Focused on scalability and UX.
 
 <a href="https://github.com/edielam/Drone-Dispatcher-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App"/>
