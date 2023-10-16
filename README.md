@@ -1,84 +1,60 @@
+Here is an improved README with the suggested changes:
 
-<!-- <h1 align="center">Hi,  I'm  Edward Lampoh</h1>
-<h3 align="center">Software Engineering | Bioinformatics | Deep Learning</h3>
-<p align="center">
-<a href="https://twitter.com/edie_I_AM/" target="blank"><img align="center" src="http://farm6.static.flickr.com/5136/5421259125_ea06d67675_o.png" alt="edward lampoh" height="30" width="40" /></a>
- <a href = "mailto: dredielam@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a> -->
-<!-- <p align="center">
-<a href="https://github.com/edielam">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineering+%7C+AI+%7C+Data Science;Startups" alt="Typing SVG" />
-</a>
-</p>
-<p align="center">
-  <em>
-    A Software Engineer with 3 years experience in web application development. Passionate about solving challenging problems with code and building products that make the world a better place. An AI enthusiast with significant practical exposure to various deep learning architectures.
-  </em> 
-</p> -->
-# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="32" height="32" /> Hello, I'm Ed! 
+# Hi there 👋, I'm Ed!
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="32" height="32" /> About Me
+I'm an experienced software engineer 👨‍💻 with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
 
-An experienced software engineer <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" /> with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
+Currently working as an AI Development Consultant on a Voice Synthesis project, and contributing to an open-source ML framework unification project.
 
-- Currently working as an AI 🤖 Software Development Consultant on a Voice Synthesis 🎤 project, as well as contributing to an open-source project 📜 that seeks to unify all machine learning 🧠 frameworks.
+## 🛠 Skills
 
-### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" width="32" height="32" /> Tech Stack
+**Languages**
 
-- Languages: Python, Java, JavaScript, C#
+- Python, Java, JavaScript, C#
 
-- Frameworks: React, Node.js, SpringBoot, Express.js, Flask, Django
+**Frameworks**
 
-- Tools: Git, Docker, AWS, Unity, NGINX
+- React, Node.js, SpringBoot, Express.js, Flask, Django 
 
-- ML: PyTorch, sklearn, TensorFlow
+**Tools**
 
-<p align="center"><i><b>GitHub Activity</b></i></p>
- 
-<p align="center">
-<!-- <a href="https://github.com/edielam">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Edward+Lampoh;Software+Engineer+%7C+Mphil+Student+%7C+Bioinformatics;AI" alt="Typing SVG" />
-</a> -->
-<br/>
+- Git, Docker, AWS, Unity, NGINX
 
-<a href="https://elam.netlify.app">
-    <img src="https://img.shields.io/badge/Website-elam.netlify-red?style=flat-square">
-</a>  
-<a href="https://elam.netlify.app/assets/Resume0823.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-<a href="https://www.linkedin.com/in/edward-lampoh-a91338b0">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:dredielam@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
+**Machine Learning**
 
+- PyTorch, sklearn, TensorFlow
 
-<br/> 
+## 🏆 Certifications
+<!--
+- AWS Certified Solutions Architect Associate
+- Microsoft Certified: Azure Fundamentals -->
 
+## 👩‍💻 Professional Experience
 
-<a href="https://github.com/edielam">
-    <img src="https://github-stats-alpha.vercel.app/api?username=edielam&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-<hr>
-<br/> 
+**AI Software Engineer** @Vosyn Inc.  - Sept 2023 - Present
 
-<!--## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width="32" height="32" /> Pinned Repositories
+- Designing architecture and MLOps pipeline for voice synthesis technology using Python,
+PyTorch.
+- Collaborating with data scientists on the design, testing, and refinement of deep learning
+models.
 
-<a href="https://github.com/edielam/Drone-Dispatcher-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App" />
-</a>
+**Software Developer** @Levitech - Aug 2019 - May 2021
+
+- Developed ML model using Python and sci-kit-learn to generate crop recommendations
+from soil data.
+- Created Flask web app to serve predictions and crop suggestions to farmers.
+- Analyzed soil datasets to derive insights for identifying optimal crops.
+
+## 📌 Pinned Repositories
 
 <a href="https://github.com/edielam/Social-Metric-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Social-Metric-Tracker" /> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Social-Metric-Tracker"/>
 </a>
 
-<!--* 💡 Open to collaborating on projects and innovative ideas.
+Built a real-time chat app with React, Node.js, and Socket.io. Focused on scalability and UX.
 
-<!--* 💻 Currently building 2D and 3D games with Unity.
+<a href="https://github.com/edielam/Drone-Dispatcher-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App"/>
+</a>
 
-* ⚙️ Looking forward to building software systems for speeding infrastructural development in Africa -->
-
-</p>
-
-
+Developed a Spring Boot application that provides a REST API for communicating with a fleet of drones.
