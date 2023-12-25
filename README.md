@@ -2,9 +2,9 @@ Here is an improved README with the suggested changes:
 
 # Hi there 👋, I'm Ed!
 
-I'm an experienced software engineer 👨‍💻 with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
+I'm a software engineer 👨‍💻 with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
 
-Currently working as an AI Development Consultant on a Voice Synthesis project, and contributing to an open-source ML framework unification project.
+Currently working as an AI Software Development Intern on a Voice Synthesis project, and contributing to an open-source ML framework unification project.
 
 ## 🛠 Skills
 
