@@ -37,13 +37,13 @@ Currently working as an AI Software Development Intern on a Voice Synthesis proj
 PyTorch.
 - Collaborating with data scientists on the design, testing, and refinement of deep learning
 models.
-
+<!--
 **Software Developer** @Levitech - Aug 2019 - May 2021
 
 - Developed ML model using Python and sci-kit-learn to generate crop recommendations
 from soil data.
 - Created Flask web app to serve predictions and crop suggestions to farmers.
-- Analyzed soil datasets to derive insights for identifying optimal crops.
+- Analyzed soil datasets to derive insights for identifying optimal crops. -->
 
 ## 📌 Pinned Repositories
 
@@ -51,7 +51,7 @@ from soil data.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Social-Metric-Tracker"/>
 </a>
 
-Built a real-time chat analytics app with React, Node.js, and SpringBoot. Focused on scalability and UX.
+Building a real-time chat analytics app with React, Node.js, and SpringBoot. Focused on scalability.
 
 <a href="https://github.com/edielam/Drone-Dispatcher-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=edielam&repo=Drone-Dispatcher-App"/>
