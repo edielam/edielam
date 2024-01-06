@@ -1,5 +1,3 @@
-Here is an improved README with the suggested changes:
-
 # Hi there 👋, I'm Ed!
 
 I'm a software engineer 👨‍💻 with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
