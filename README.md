@@ -2,7 +2,7 @@
 
 I'm a software engineer 👨‍💻 with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
 
-Currently working as an AI Software Development Intern on a Voice Synthesis project, and contributing to an open-source ML framework unification project.
+In my last role(Dec 2023) as an AI Software Developer Intern, I consulted on a Voice Synthesis project. In my free time, I work on open-source projects, such as contributing to an open-source ML framework unification project.
 
 ## 🛠 Skills
 
@@ -29,7 +29,7 @@ Currently working as an AI Software Development Intern on a Voice Synthesis proj
 
 ## 👩‍💻 Professional Experience
 
-**AI Software Engineer** @Vosyn Inc.  - Sept 2023 - Present
+**AI Software Engineer** @Vosyn Inc.  - Sept 2023 - Dec 2023
 
 - Designing architecture and MLOps pipeline for voice synthesis technology using Python,
 PyTorch.
