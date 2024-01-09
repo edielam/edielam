@@ -2,7 +2,7 @@
 
 I'm a software engineer 👨‍💻 with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
 
-In my last role(Dec 2023) as an AI Software Developer Intern, I consulted on a Voice Synthesis project. In my free time, I work on open-source projects, such as contributing to an open-source ML framework unification project.
+Just completed an AI Software Development Internship, where I consulted on a Voice Synthesis project. In my leisure time, I work on open-source projects, such as contributing to an open-source ML framework unification project.
 
 ## 🛠 Skills
 
