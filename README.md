@@ -1,47 +1,27 @@
 # Hi there 👋, I'm Ed!
 
-I'm a software engineer 👨‍💻 with expertise in building scalable web applications, APIs, and machine learning models. I'm passionate about leveraging technology to solve real-world problems.
-
-Just completed an AI Software Development Internship, where I consulted on a Voice Synthesis project. In my leisure time, I work on open-source projects, such as contributing to an open-source ML framework unification project.
+I'm a full-stack software engineer 👨‍💻 with expertise in building scalable web applications and APIs. Passionate about leveraging technology to solve real-world problems.
 
 ## 🛠 Skills
 
 **Languages**
 
-- Python, Java, JavaScript, C#
+- Python, Java, JavaScript
 
 **Frameworks**
 
-- React, Node.js, SpringBoot, Express.js, Flask, Django 
+- React, Node.js, SpringBoot, Express.js, Flask
 
 **Tools**
 
-- Git, Docker, AWS, Unity, NGINX
-
-**Machine Learning**
-
-- PyTorch, sklearn, TensorFlow
-
-## 🏆 Certifications
-<!--
-- AWS Certified Solutions Architect Associate
-- Microsoft Certified: Azure Fundamentals -->
+- Git, Docker, AWS
 
 ## 👩‍💻 Professional Experience
 
-**AI Software Engineer** @Vosyn Inc.  - Sept 2023 - Dec 2023
+**AI Software Engineer** @Vosyn Inc. 
 
-- Designing architecture and MLOps pipeline for voice synthesis technology using Python,
-PyTorch.
-- Collaborating with data scientists on the design, testing, and refinement of deep learning
-models.
-<!--
-**Software Developer** @Levitech - Aug 2019 - May 2021
-
-- Developed ML model using Python and sci-kit-learn to generate crop recommendations
-from soil data.
-- Created Flask web app to serve predictions and crop suggestions to farmers.
-- Analyzed soil datasets to derive insights for identifying optimal crops. -->
+- Designed architecture and MLOps pipeline for voice synthesis technology using Python, PyTorch.
+- Collaborated with data scientists on the design, testing, and refinement of deep learning models.
 
 ## 📌 Pinned Repositories
 
