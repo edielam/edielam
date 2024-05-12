@@ -6,7 +6,7 @@ I'm a full-stack software engineer 👨‍💻 with expertise in building scalab
 
 **Languages**
 
-- Python, Java, JavaScript
+- Python, Rust, Java, JavaScript
 
 **Frameworks**
 
