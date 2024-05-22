@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ed!
 
-[I'm a full-stack software engineer 👨‍💻 with expertise in building scalable web applications and APIs. Passionate about leveraging technology to solve real-world problems.]:
+[I'm a full-stack software engineer 👨‍💻 with expertise in building scalable web applications and APIs. Passionate about leveraging technology to solve real-world problems.]#
 
 ## 🛠 Skills
 
