@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Ed!
 
+Currently building cross-platform desktop apps with Tauri
 
 ## 🛠 Skills
 
@@ -9,7 +10,7 @@
 
 **Frameworks**
 
-- React, Node.js, SpringBoot, Express.js, Flask
+- Tauri, React, Node.js, SpringBoot, Express.js, Flask
 
 **Tools**
 
