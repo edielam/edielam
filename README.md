@@ -14,4 +14,4 @@ Currently building cross-platform desktop apps with Tauri
 - **Machine Learning**: PyTorch, TensorFlow
 - **Systems Programming**: Terminal Emulation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=12&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=12&hide=html,css,Makefile,JupyterNotebook)
