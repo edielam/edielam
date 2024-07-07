@@ -14,9 +14,9 @@ Currently building cross-platform desktop apps with Tauri
 - **Machine Learning**: PyTorch, TensorFlow
 - **Systems Programming**: Terminal Emulation
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=6&hide=html,css,Makefile,ShaderLab,SCSS,Jupyter%20Notebook) -->
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=6&hide=html,css,Makefile,ShaderLab,SCSS,Jupyter%20Notebook)
 
-<table>
+<!--<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=6&hide=html,css,Makefile,ShaderLab,SCSS,Jupyter%20Notebook" alt="Top Languages" />
@@ -25,4 +25,4 @@ Currently building cross-platform desktop apps with Tauri
       <img src="https://github-readme-stats.vercel.app/api?username=edielam&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
   </tr>
-</table>
+</table> -->
