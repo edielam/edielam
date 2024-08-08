@@ -4,8 +4,8 @@ Currently building cross-platform desktop apps with Tauri
 
 ## 🛠 Skills
 
-- **Programming Languages**: Rust, JavaScript, Python, Java
-- **Web Technologies and Frameworks**: React, HTML5, CSS3, Node.js, Express.js, FastAPI, SpringBoot
+- **Programming Languages**: Rust, JavaScript, TypeScript, Python, Java
+- **Web Technologies and Frameworks**: Next, React, HTML5, CSS3, Node.js, Express.js, FastAPI, SpringBoot
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Cloud & DevOps**: AWS, GCP, Docker, Docker Swarm, Terraform, Kubeflow Pipelines
 - **Cross-platform Development**: Tauri
