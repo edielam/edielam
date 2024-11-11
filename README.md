@@ -10,8 +10,7 @@ Currently building cross-platform desktop apps with Tauri
 - **Cloud & DevOps**: AWS, GCP, Docker, Docker Swarm, Terraform, Kubeflow Pipelines
 - **Cross-platform Development**: Tauri
 - **Machine Learning**: PyTorch, TensorFlow
-- **Others**: Networking(LibP2P, WebRTC, Socket), Distributed Systems, Systemes Programming(Terminal Emulation)
-
+- **Others**: Networking(LibP2P, WebRTC, Socket), Distributed Systems
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=8&hide=html,css,Makefile,ShaderLab,SCSS,Jupyter%20Notebook)
 
