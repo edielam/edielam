@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ed!
-
-Currently building cross-platform desktop apps with Tauri
 <!--
+Currently building cross-platform desktop apps with Tauri
+
 ## 🛠 Skills
 
 - **Programming Languages**: Rust, Python, JavaScript, Java,  TypeScript,
