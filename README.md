@@ -1,18 +1,18 @@
 # Hi there 👋, I'm Ed!
 
 Currently building cross-platform desktop apps with Tauri
-
+<!--
 ## 🛠 Skills
 
-- **Programming Languages**: Rust, JavaScript, TypeScript, Python, Java
+- **Programming Languages**: Rust, Python, JavaScript, Java,  TypeScript,
 - **Web Technologies and Frameworks**: Next, React, HTML5, CSS3, Node.js, Express.js, FastAPI, SpringBoot
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Cloud & DevOps**: AWS, GCP, Docker, Docker Swarm, Terraform, Kubeflow Pipelines
 - **Cross-platform Development**: Tauri
 - **Machine Learning**: PyTorch, TensorFlow
-- **Others**: Networking(LibP2P, WebRTC, Socket), Distributed Systems
+- **Others**: Networking(LibP2P, WebRTC, Socket), Distributed Systems -->
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=8&hide=html,css,Makefile,ShaderLab,SCSS,Jupyter%20Notebook)
+ ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edielam&layout=compact&theme=radical&langs_count=8&hide=html,css,Makefile,ShaderLab,SCSS,Jupyter%20Notebook)
 
 <!--<table>
   <tr>
